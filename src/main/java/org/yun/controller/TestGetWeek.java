@@ -5,7 +5,6 @@ import java.util.Calendar;
 import java.util.Date;
 
 /**
- *
  * @author 芸
  * @date 2020-28-20 14:28:48
  * @return
@@ -35,7 +34,7 @@ public class TestGetWeek {
 
     /**
      * 获取当月的 天数
-     * */
+     */
     public static int getCurrentMonthDay() {
 
         Calendar a = Calendar.getInstance();
@@ -47,7 +46,7 @@ public class TestGetWeek {
 
     /**
      * 根据年 月 获取对应的月份 天数
-     * */
+     */
     public static int getDaysByYearMonth(int year, int month) {
 
         Calendar a = Calendar.getInstance();

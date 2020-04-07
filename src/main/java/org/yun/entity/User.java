@@ -24,5 +24,5 @@ public class User {
     private String sex;
     private Date date;
     private Timestamp date1;
-    
+
 }

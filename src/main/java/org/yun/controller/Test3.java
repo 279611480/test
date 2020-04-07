@@ -42,7 +42,7 @@ public class Test3 {
 //        lists.add(new Student(1,"曹操","22",99.50));
         //一次性添加多条数据
         Collections.addAll(lists, new Student(1, "曹操", "22", 99.50)
-                ,new Student(2, "郭嘉", "22", 99.50)
+                , new Student(2, "郭嘉", "22", 99.50)
                 , new Student(11, "许褚", "22", 90.50)
                 , new Student(9, "典韦", "22", 90.50)
                 , new Student(5, "荀彧", "22", 90.50)

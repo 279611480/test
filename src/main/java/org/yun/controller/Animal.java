@@ -8,7 +8,7 @@ package org.yun.controller;
  **/
 public class Animal {
 
-    public void say(){
+    public void say() {
         System.out.println("Animal说话~~");
     }
 
